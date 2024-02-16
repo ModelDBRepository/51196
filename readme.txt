@@ -16,7 +16,7 @@
     developed by Migliore and Lansky (1999) and combined it with the
     model of the electrical activity in the cerebellar granule cells
     developed by D'Angelo et al (Bursting and resonance in cerebellar
-    granule cells by D’Angelo et al., 2001 in ModelDB)with addition 
+    granule cells by Dâ€™Angelo et al., 2001 in ModelDB)with addition 
     of the description of AMPA and NMDA receptor kinetics. In 
     contrast to the model of Migliore and Lansky, an activation of
     autocatalytic processes is controlled not by postsynaptic 
@@ -45,7 +45,7 @@ where "weight" can be considered as the probability to release on the
 first AP. This allowed us to reproduce slower decrease of release 
 probability during repetitive stimulation, which occurs presumably 
 due to several vesicles in the ready-to-release pool under condition
-of one-vesicle constraint. 
+of one-vesicle constraint.
 
 Keywords: Cerebellar granule cells, Long-term plasticity.
 
